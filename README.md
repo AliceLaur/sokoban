@@ -1,1 +1,2 @@
-# sokoban
+# Sokoban is a game where you have to put rocks in hole : you are a blue circle that can push grey squares in black squares
+# In order to to play, you must start the server with the command "npm run start"
